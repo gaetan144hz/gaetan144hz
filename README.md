@@ -2,7 +2,7 @@
 
 ### I'm Technical Artist Specialize in Pipeline
 
-- 🔭 I’m currently working on [l'Or d'Amazon at NOVAYA](https://novaya.io/lor-damazon/)
+- 🔭 I’m currently working on **[l'Or d'Amazon at NOVAYA](https://novaya.io/lor-damazon/)**
 
 - 🌱 I'm currently learning **VR - MR Developpement on Unity and Unreal**
 
