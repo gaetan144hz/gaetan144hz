@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Unreal Engine Tips and GameDev ! LevelDesign / GameDesign / Project Structure**
 
-- 📫 How to reach me **gaetan.dumas.3d@gmail.com**
+- 📫 How to reach me **gaetan.dumas.3d@gmail.com** or Discord **g144hz**
 
 - ⚡ Fun fact **I love to play coop with my friends
 I like watching Formula 1 and Tennis, I climb and play tennis.**
