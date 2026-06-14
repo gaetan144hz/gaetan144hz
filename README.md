@@ -10,7 +10,7 @@
 
 - 🤝 I'm looking for help with **learning unreal engine FX and Lighting and C++**
 
-- 💬 Ask me about **Unreal Engine Tips and GameDev ! LevelDesign / GameDesign / Project Structure**
+- 💬 Ask me about **Unreal Engine Tips and GameDev ! LevelDesign / Project Structure**
 
 - 📫 How to reach me **gaetan.dumas.3d@gmail.com** or discord on my **[BlenderFrance](https://discord.gg/https://discord.gg/https://discord.gg/bMYn8wPBHD)** server or MP at **g144hz**
 
